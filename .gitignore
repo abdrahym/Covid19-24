@@ -1,0 +1,13 @@
+__datasources__
+__dumbs__
+_dataset___
+__pycache__
+COVID19Dataset
+.ipynb_checkpoints
+.pylintrc
+.idea
+.flake8
+.vscode
+.env
+.paths
+*ipynb
