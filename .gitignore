@@ -1,8 +1,7 @@
 __datasources__
 __dumbs__
-_dataset___
+__dataset___
 __pycache__
-COVID19Dataset
 .ipynb_checkpoints
 .pylintrc
 .idea
@@ -10,4 +9,3 @@ COVID19Dataset
 .vscode
 .env
 .paths
-*ipynb
