@@ -87,10 +87,10 @@ time.sleep(1)
 <hr style="width: 60%; margin-left: 0; border: none; border-bottom: 1px solid black; margin-top: 0;">
 
 
-    [92m[1mowid-covid-codebook.csv[0m - [91m[4m0.01MB[0m (1.34e+01 KB)
-    [92m[1mowid-covid-data.csv[0m - [91m[4m98.12MB[0m (1.00e+05 KB)
-    [92m[1mowid-covid-data.json[0m - [91m[4m227.30MB[0m (2.33e+05 KB)
-    [92m[1mowid-covid-data.xlsx[0m - [91m[4m52.49MB[0m (5.37e+04 KB)
+    owid-covid-codebook.csv 0.01MB (1.34e+01 KB)
+    owid-covid-data.csv 98.12MB (1.00e+05 KB)
+    owid-covid-data.json 227.30MB (2.33e+05 KB)
+    owid-covid-data.xlsx 52.49MB (5.37e+04 KB)
     
 
 
